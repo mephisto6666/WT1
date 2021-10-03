@@ -4,8 +4,8 @@ public class Test{
 
 
         public static void main(String [] args){
-
-            System.out.println("L'archange Raphaêl nous guérit");
+            String message="L'archange Saint Michel défend";
+            System.out.println(message);
 
 
         }
